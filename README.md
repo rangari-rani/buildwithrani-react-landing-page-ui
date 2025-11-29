@@ -25,15 +25,20 @@ A clean and responsive landing page user interface built using React and Tailwin
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-![Landing Page Desktop Preview]()
+![Landing Page Desktop Preview](https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/landing-hero-ss.png)
+_Hero Section_
+![Landing Page Category Preview](https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/landing-slider-ss.png)
+_Catgeory Section_
+![Landing Page Footer Preview](https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/landing-footer-ss.png)
+_Footer Section_
 
 ### 📱 Mobile Views
 <p align="center">
-  <img src="" alt="Mobile Hero View" width="22%">
+  <img src="https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/mobile-landing-top-ss.png" alt="Mobile Hero View" width="22%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" alt="Mobile Categories View" width="22%">
+  <img src="https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/mobile-landing-hero-ss.png" alt="Mobile Categories View" width="22%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" alt="Mobile Collections View" width="22%">
+  <img src="https://github.com/rangari-rani/buildwithrani-react-landing-page-ui/blob/6e7f2367f086f1aff1651e58e74113bedeac3308/public/mobile-landing-footer-ss.png" alt="Mobile Footer View" width="22%">
 </p>
 
 _Mobile responsive design screenshots_
