@@ -16,9 +16,6 @@ A clean and responsive landing page user interface built using React and Tailwin
 - ⚛️ [**React.js (Vite)**](https://vitejs.dev/) – modern frontend build tool for fast development  
 - 🎨 [**Tailwind CSS**](https://tailwindcss.com/) – utility-first CSS framework for responsive styling  
 - 🔷 [**TypeScript**](https://www.typescriptlang.org/) – ensures type safety and clean component design  
-- 🧭 [**React Router DOM**](https://reactrouter.com/en/main) – for navigation between sections and routes  
-- 🎠 [**React Slick + Slick Carousel**](https://react-slick.neostack.com/) – for product and banner carousels  
-- 🧩 [**React Icons**](https://react-icons.github.io/react-icons/) – lightweight icon library for consistent visuals  
 
 ---
 
