@@ -1,6 +1,5 @@
 import React from "react";
 import type { Product } from "../../data/products";
-import { Link } from "react-router-dom";
 
 type Props = {
   product: Product;
@@ -8,7 +7,7 @@ type Props = {
 
 const GymCard: React.FC<Props> = ({ product }) => {
   return (
-    <Link to="" className="block cursor-pointer">
+    <div className="block cursor-pointer">
       <div className="flex flex-col items-center text-center">
         {/* Circular Gradient Glow */}
         <div className="relative rounded-full p-1 bg-linear-to-r from-pink-400 via-purple-500 to-blue-400 flex items-center justify-center">
@@ -29,7 +28,7 @@ const GymCard: React.FC<Props> = ({ product }) => {
           {product.name}
         </h3>
       </div>
-    </Link>
+    </div>
   );
 };
 

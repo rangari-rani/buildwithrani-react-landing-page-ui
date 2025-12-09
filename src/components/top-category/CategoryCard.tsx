@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import type { Category } from "./categoryData";
 
 interface CategoryCardProps {
@@ -10,8 +9,7 @@ const CategoryCard: React.FC<CategoryCardProps> = ({ category }) => {
   const { name, description, bgColor, image } = category;
 
   return (
-    <Link
-      to=""
+    <div
       className={`${bgColor} rounded-lg p-4 flex flex-col justify-between 
                   transform transition-transform duration-300 hover:scale-105`}
       style={{ aspectRatio: "1 / 1" }}
@@ -29,7 +27,7 @@ const CategoryCard: React.FC<CategoryCardProps> = ({ category }) => {
           className="w-full h-full object-cover rounded-lg"
         />
       </div>
-    </Link>
+    </div>
   );
 };
 
