@@ -62,13 +62,6 @@ _Mobile responsive design screenshots_
 ```tsx
 src/
 ├── App.tsx
-├── App.css
-├── index.css
-├── main.tsx
-│
-├── assets/
-│   └── react.svg
-│
 ├── components/
 │   ├── active-life/
 │   │   ├── ActiveLifeCollection.tsx
