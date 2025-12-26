@@ -7,7 +7,7 @@ A clean and responsive landing page user interface built using React and Tailwin
 
 ---
 
-## 🚀 Live Demo: [Try it on Vercel](https://buildwithrani-react-landing-page-ui.vercel.app/)
+## 🚀 Live Demo: [Try it on Vercel](https://buildwithrani-react-landing-page-module.vercel.app)
 
 ---
 
