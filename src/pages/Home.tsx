@@ -31,8 +31,8 @@ export default function Home() {
 
       {isLoading ? <HomeEssentialsSkeleton /> : <HomeEssentials />}
 
-      {/* <Testimonials /> */}
-      {/* <Newsletter /> */}
+      <Testimonials />
+      <Newsletter />
     </>
   );
 }
